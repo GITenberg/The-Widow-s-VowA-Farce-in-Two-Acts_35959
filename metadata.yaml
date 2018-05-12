@@ -1,0 +1,35 @@
+_repo: The-Widow-s-VowA-Farce-in-Two-Acts_35959
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Patrat, Joseph
+    alias: Patrat, J. (Joseph)
+    birthdate: 1732
+    deathdate: 1801
+    gutenberg_agent_id: '44272'
+    url: http://www.gutenberg.org/2009/agents/44272
+  - agent_name: Inchbald, Mrs.
+    alias: Inchbald, Elizabeth Simpson
+    birthdate: 1753
+    deathdate: 1821
+    gutenberg_agent_id: '1305'
+    url: http://www.gutenberg.org/2009/agents/1305
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Inchbald
+description: Plot taken from "L'heureuse erreur" of Patrat.
+gutenberg_issued: '2011-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35959'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama'
+- !lcc 'PR'
+- !lcsh 'Comedies'
+title: 'The Widow''s Vow: A Farce, in Two Acts'
+url: http://www.gutenberg.org/ebooks/35959
